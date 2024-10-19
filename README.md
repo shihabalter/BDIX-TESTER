@@ -15,3 +15,5 @@ A simple Windows program for testing BDIX servers, updated with the latest serve
 
 ## Why Use It?
 Because you need to.
+
+![Visitor Count](https://hits.sh/github.com/shihabalter/BDIX-TESTER.svg?style=flat-square)

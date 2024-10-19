@@ -14,4 +14,4 @@ A simple Windows program for testing BDIX servers, updated with the latest serve
 - **Save Results**: Easily save a list of working servers for future use.
 
 ## Why Use It?
-BDIX-TESTER makes it easy to find active BDIX connections with just a few clicks. It’s perfect for anyone looking to test and save reliable BDIX servers without the hassle.
+Because you need to.

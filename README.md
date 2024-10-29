@@ -13,7 +13,5 @@ A simple Windows program for testing BDIX servers, updated with the latest serve
 - **Custom Timeout**: Adjust timeout settings to match your needs.
 - **Save Results**: Easily save a list of working servers for future use.
 
-## Why Use It?
-Because you need to.
 
 ![Visitor Count](https://hits.sh/github.com/shihabalter/BDIX-TESTER.svg?style=flat-square)
